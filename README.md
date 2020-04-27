@@ -1,5 +1,7 @@
 # Pace-Test
-Firebase Storage And MAP Setup\\\
+
+# Only for ios platform
+# Firebase Storage And MAP Setup\\\
 
 
 To run the project steps need to follow - 
